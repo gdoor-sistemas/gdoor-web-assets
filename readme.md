@@ -1,1 +1,2 @@
-Repositório para os assets dos projetos GDOORWEB
+Repositório para os assets 
+dos projetos GDOORWEB
